@@ -7,7 +7,7 @@
 Подключиться локально к Pod с помощью kubectl port-forward и вывести значение (curl или в браузере).
 
 ### Ответ
-
+ - [pod](https://github.com/Nano-prototip/-K8S-/blob/main/pod.yml).
 
 ## Задание 2. 
 Создать Service и подключить его к Pod
@@ -17,3 +17,5 @@
 Подключиться локально к Service с помощью kubectl port-forward и вывести значение (curl или в браузере).
 
 ### Ответ
+
+- [service](https://github.com/Nano-prototip/-K8S-/blob/main/service.yml).
