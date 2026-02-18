@@ -18,4 +18,7 @@
 
 ### Ответ
 
+<img width="858" height="391" alt="03" src="https://github.com/user-attachments/assets/f37078cd-39d4-432b-8c43-7310ed7e65fd" />
+<img width="858" height="391" alt="03" src="https://github.com/user-attachments/assets/f37078cd-39d4-432b-8c43-7310ed7e65fd" />
+
 - [service](https://github.com/Nano-prototip/-K8S-/blob/main/service.yml).
