@@ -7,6 +7,9 @@
 Подключиться локально к Pod с помощью kubectl port-forward и вывести значение (curl или в браузере).
 
 ### Ответ
+
+<img width="451" height="489" alt="02" src="https://github.com/user-attachments/assets/3d174907-5e07-4636-ba67-e1e3634f6ded" />
+
  - [pod](https://github.com/Nano-prototip/-K8S-/blob/main/pod.yml).
 
 ## Задание 2. 
@@ -18,7 +21,6 @@
 
 ### Ответ
 
-<img width="858" height="391" alt="03" src="https://github.com/user-attachments/assets/f37078cd-39d4-432b-8c43-7310ed7e65fd" />
 <img width="858" height="391" alt="03" src="https://github.com/user-attachments/assets/f37078cd-39d4-432b-8c43-7310ed7e65fd" />
 
 - [service](https://github.com/Nano-prototip/-K8S-/blob/main/service.yml).
