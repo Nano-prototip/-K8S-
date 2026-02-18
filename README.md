@@ -8,6 +8,8 @@
 
 ### Ответ
 
+<img width="766" height="798" alt="01" src="https://github.com/user-attachments/assets/6c3b90e3-b2ae-4c8d-a64d-07af2296757d" />
+
 <img width="451" height="489" alt="02" src="https://github.com/user-attachments/assets/3d174907-5e07-4636-ba67-e1e3634f6ded" />
 
  - [pod](https://github.com/Nano-prototip/-K8S-/blob/main/pod.yml).
